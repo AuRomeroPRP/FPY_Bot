@@ -1,0 +1,1 @@
+This bot will respond with the current FPY of the day and PFY of this week
